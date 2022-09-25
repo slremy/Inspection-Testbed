@@ -1,0 +1,4 @@
+flask==2.2.2
+opencv-python>=4.6
+cvlib==0.2.7
+pillow==9.2.0
