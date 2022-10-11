@@ -26,7 +26,7 @@ python3 clocks_detection.py
 
 If everything went well, when you point your browser to http://127.0.0.1:5000/static/chai_pointerlock.html, you should see something like:
 
-![](https://github.ibm.com/ungana/Inspection-Testbed/blob/main/sample.gif)
+![](https://github.com/slremy/Inspection-Testbed/blob/main/sample.gif)
 
 This assumes that you kept the default settings for the webservice.
 
